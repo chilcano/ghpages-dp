@@ -1,0 +1,70 @@
+/* DATA-PLANE.IO WEB */
+
+
+@font-face {
+    font-family: "Helvetica Neue Light";
+    src: url("/fonts/helveticaneue/HelveticaNeue\ Light.ttf");
+  }
+
+
+body {
+color: #cccccc;
+background-color: #ffffff;
+-webkit-text-size-adjust: 100%;
+-webkit-font-feature-settings: "kern" 1;
+	-moz-font-feature-settings: "kern" 1;
+		-o-font-feature-settings: "kern" 1;
+		font-feature-settings: "kern" 1;
+font-kerning: normal;
+display: flex;
+min-height: 100vh;
+flex-direction: column;
+}
+
+
+a{
+	color: #ff9110;
+	text-decoration: none
+}
+a:hover{
+	color: #ff9110;
+	text-decoration: underline
+}
+a:visited{
+	color: #ff9110;
+	text-decoration: none
+}
+a.nav-icon{
+	color: #000000;
+	text-decoration: none	
+}
+
+blogtag{
+	text-transform:uppercase
+} 
+
+blogtag:hover{
+	text-decoration: underline
+} 
+
+footer ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+	overflow:hidden;
+	float:left;
+	margin-left:15px;
+	margin-top:10px;
+	width:60%
+}
+footer ul li{
+	float:left;	
+	margin-right:1em
+}
+footer ul li a{
+	color:#ff9110;
+	font-size:0.85em;
+	text-transform:uppercase
+}
+
+/* DATA-PLANE.IO WEB END */

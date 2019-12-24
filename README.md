@@ -1,2 +1,2 @@
 # ghpages-dp
-Data-Plane.io Site
+Go to [DATA-PLANE.io](http://data-plane.io) Site

@@ -1,0 +1,7 @@
+_posts/*.html
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+*.csv
